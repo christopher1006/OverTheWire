@@ -1,4 +1,4 @@
-# Bandit Level 0
+# Problem Name
 
 ## Problem Information 
   >
