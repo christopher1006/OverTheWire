@@ -2,8 +2,7 @@
 
 ## Problem Information 
   >
-## Hint
-  >
+
 ## Solution
  
 ### Flag
