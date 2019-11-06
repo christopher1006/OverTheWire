@@ -1,4 +1,4 @@
-# Challenge Name And Category Here
+# Challenge Name
 
 ## Question 
   >
