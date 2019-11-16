@@ -1,4 +1,4 @@
-# Problem Name
+# Bandit 5
 
 ## Problem Information 
   > The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
