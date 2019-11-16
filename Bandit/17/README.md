@@ -7,4 +7,4 @@
  Connect using the previous certificate saved as a file. `ssh -i sshkey.private bandit17@bandit.labs.overthewire.org -p 2220`. Use diff to show the password. `diff passwords.new passwords.old`. Make sure to select the entry corresponding to `passwords.new`.
  
 ### Flag
-kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd XXX
+kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
