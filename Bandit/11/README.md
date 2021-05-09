@@ -7,5 +7,3 @@
  `ls -Al` reveals the `data.txt` file is already in the home directory. `cat data.txt` returns "Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh". In order to remove the Rot13 encoding, run `cat data.txt | tr ‘n-za-mN-ZA-M’ ‘a-zA-Z’`  
 ### Flag
 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
-
-TODO Check if change was effecive
